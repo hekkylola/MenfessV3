@@ -474,45 +474,6 @@ return`━━━❲ 𝙑𝙄𝘾𝙏𝙊𝙍-𝙈𝘿 ❳━━━
 ┃▢ ${prefix}cerpen-bahasadaerah
 ┃▢ ${prefix}cerpen-anak
 ┣━━━━━━━━━━━━━━
-┣━❲ 𝙉𝙎𝙁𝙒 𝙈𝙀𝙉𝙐 ❳
-┃▢ ${prefix}yuri
-┃▢ ${prefix}ero
-┃▢ ${prefix}foot
-┃▢ ${prefix}ass
-┃▢ ${prefix}cuckold
-┃▢ ${prefix}cum
-┃▢ ${prefix}hentai
-┃▢ ${prefix}gangbang
-┃▢ ${prefix}femdom
-┃▢ ${prefix}ahegao
-┃▢ ${prefix}glasses
-┃▢ ${prefix}jahy
-┃▢ ${prefix}orgy
-┃▢ ${prefix}pussy
-┃▢ ${prefix}thighs
-┃▢ ${prefix}panties
-┃▢ ${prefix}thighs
-┃▢ ${prefix}masturbation
-┃▢ ${prefix}chiisaihentai
-┃▢ ${prefix}trap
-┃▢ ${prefix}blowjob
-┃▢ ${prefix}yaoi
-┃▢ ${prefix}ecchi
-┃▢ ${prefix}hentai
-┃▢ ${prefix}ahegao
-┃▢ ${prefix}hololewd
-┃▢ ${prefix}sideoppai
-┃▢ ${prefix}animefeets
-┃▢ ${prefix}animebooty
-┃▢ ${prefix}animethighss
-┃▢ ${prefix}hentaiparadise
-┃▢ ${prefix}animearmpits
-┃▢ ${prefix}hentaifemdom
-┃▢ ${prefix}lewdanimegirls
-┃▢ ${prefix}biganimetiddies
-┃▢ ${prefix}animebellybutton
-┃▢ ${prefix}hentai4everyone
-┣━━━━━━━━━━━━━━
 ┣━❲ 𝙎𝙊𝙐𝙉𝘿 𝙈𝙀𝙉𝙐 ❳
 ┃▢ ${prefix}sound1
 ┃▢ ${prefix}sound2
@@ -724,12 +685,12 @@ return`──「 *MENU DONATE* 」──
 Hi *${cekName}* ${ucapanWaktu} 👋🏻
 
 *Payment Ovo*
-Number: 085172446692
-A/N: levi
+Number: 085823265582
+A/N: Man MD
 
 *Payment Dana*
-Number: 085172446692
-A/N: levi
+Number: 089609237170
+A/N: Man MD
 
 ${monoSpace}Terimakasih untuk kamu yang sudah donasi untuk perkembangan bot ini ^_^${monoSpace}
 
@@ -740,17 +701,17 @@ exports.infoOwner = () =>{
 return`──「 *INFO OWNER* 」──
 
  *Data Profil*
- • *Nama:* levi
- • *Umur:* 13 tahun
+ • *Nama:* Rahman
+ • *Umur:* 17 tahun
  • *Hoby:* sendiri/tiktok
- • *Askot:* Berau
- • *Konten:* Creator
+ • *Askot:* Jatim
+ • *Konten:* tidur
 
 _iam developer bot whatsapp._
 
  *Sosial Media*
- • *Whatsapp:* 085172446692
- • *Youtube:* LEVI GANZ
- • *Github:* victorbot22
+ • *Whatsapp:* 085823265582
+ • *Youtube:* Fastx_Gaming
+ • *Github:* hekylola
  `
 }
